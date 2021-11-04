@@ -1,6 +1,27 @@
-[submodule "M7_PHP"]
+[submodule "PHP"]
 	path = M7_PHP
 	url = https://github.com/jcsalinas20/M7_PHP
 [submodule "Wordpress-The-Dynamic"]
 	path = Wordpress-The-Dynamic
 	url = https://github.com/jcsalinas20/wordpress-the-dynamic
+[submodule "Wordpress-Mundo-Anime"]
+	path = Wordpress-Mundo-Anime
+	url = https://github.com/jcsalinas20/wordpress-mundo-anime
+[submodule "Task-List-Cordova"]
+	path = Task-List-Cordova
+	url = https://github.com/jcsalinas20/task-list-cordova
+[submodule "Tab-Panel-Music-Cordova"]
+	path = Tab-Panel-Music
+	url = https://github.com/jcsalinas20/Tab-panel_Music
+[submodule "Matriculacion-Cordova"]
+	path = Matriculacion-Cordova
+	url = https://github.com/jcsalinas20/matriculacions_cordova
+[submodule "Ajedrez-Flask"]
+	path = Ajedrez-Flask
+	url = https://github.com/jcsalinas20/ajedrez_flask
+[submodule "Task-List-Laravel"]
+	path = Task-List-Laravel
+	url = https://github.com/jcsalinas20/task-list-laravel
+[submodule "Blog-Laravel"]
+	path = Blog-Laravel
+	url = https://github.com/jcsalinas20/blog-laravel
